@@ -4,10 +4,8 @@
     "stage-0"
   ],
   "plugins": [
-    "add-module-exports",
-    "transform-runtime",
-    "syntax-flow",
     "fail-explicit",
+    "syntax-flow",
     "transform-flow-strip-types"
   ]
 }
